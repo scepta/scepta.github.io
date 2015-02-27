@@ -18,3 +18,4 @@ Most likely the content of the website you are looking for is link:src/main/jbak
 * `mvn jbake:inline` Same as watch, but also launches an embedded winstone container that by default listens on http://localhost:8080. Additionally you may want to use `-Djbake.port=X` `-Djbake.listenAddress=Y`.
 
 NOTE: `mvn install` will most likely fail on localhost, because it needs the OAuth token for GitHub.
+
