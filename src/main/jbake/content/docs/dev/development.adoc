@@ -1,0 +1,16 @@
+= How to develop on Scepta
+Gary Brown
+2015-02-27
+:description: Hacking on Scepta
+:icons: font
+:jbake-type: page
+:jbake-status: published
+:toc: macro
+:toc-title: 
+
+
+toc::[]
+
+== Developing Scepta
+
+

@@ -1,0 +1,13 @@
+= Downloads
+Gary Brown
+2015-02-27
+:description: Downloads for Scepta
+:jbake-type: page
+:jbake-status: published
+
+
+== Downloads
+
+.NOTE
+Scepta did not have any formal releases yet. Stay tuned.
+

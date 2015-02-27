@@ -1,0 +1,25 @@
+= Community
+Gary Brown
+2015-02-27
+:description: Community Resources
+:jbake-type: page
+:jbake-status: published
+
+
+== Mailing Lists
+
+* User
+https://developer.jboss.org/en/overlord
+
+* Developer
+https://developer.jboss.org/en/overlord/dev
+
+== Around the Web
+:icons: font
+
+=== IRC Freenode
+link:irc://irc.freenode.net/#jbossoverlord[#jbossoverlord]
+
+{empty} +
+
+
