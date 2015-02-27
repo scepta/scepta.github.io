@@ -11,7 +11,7 @@ notifications:
 
 env:
   global:
-    secure: "CHhMe+l5PsSiV9JEUH4Pxqxj/MGpnhwwmD/hp3BuF1c1f8sdrTax7xduNpttJ84Mp3GdEDspfL5sI695/JZU5SqSSIvBxJMEwGtt7/c8gSHdmMdSrpsIgob24D9NIUtrzmqaXRa1Upy7Vll0hs30siOdnxQJKZnjv719Dq+73To="
+    secure: "GsVWW5tTX3LZhiuC4/T3rLNOfIjGcdLfBhKKk4My3/urSAcVPmLyS7fjtpJ4Eh6zw1a1ArtPEB4G46afW+z/LtGOVPg28VWOm5QBaKGvr4rzOfJLtB7PMuMbklCA0lBfTjp6VYOPicrJkIkWoVu9QYc3Zh4SEO8yHVENdHzmh3c="
 
 install:
   # download all the universe
