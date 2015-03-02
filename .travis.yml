@@ -15,4 +15,4 @@ script:
 
 after_success:
   # push to master
-  - test "${TRAVIS_BRANCH}" = "pages" && test "${TRAVIS_PULL_REQUEST}" = "false" && mvn -s .travis.settings.xml site
+  - test "${TRAVIS_BRANCH}" = "pages2" && test "${TRAVIS_PULL_REQUEST}" = "false" && mvn -s .travis.settings.xml site
