@@ -120,7 +120,7 @@
           <message>Creating site for ${project.version}</message>
           <outputDirectory>${project.build.directory}/${project.build.finalName}</outputDirectory>
           <repositoryName>scepta.github.io</repositoryName>
-          <repositoryOwner>objectiser</repositoryOwner>
+          <repositoryOwner>scepta</repositoryOwner>
           <branch>refs/heads/master</branch>
           <noJekyll>true</noJekyll>
           <excludes>
