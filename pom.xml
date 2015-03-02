@@ -47,6 +47,9 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
+  <scm>
+    <url>https://github.com/scepta/scepta.github.io</url>
+  </scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -119,8 +122,6 @@
         <configuration>
           <message>Creating site for ${project.version}</message>
           <outputDirectory>${project.build.directory}/${project.build.finalName}</outputDirectory>
-          <repositoryName>scepta.github.io</repositoryName>
-          <repositoryOwner>scepta</repositoryOwner>
           <branch>refs/heads/master</branch>
           <noJekyll>true</noJekyll>
           <excludes>
