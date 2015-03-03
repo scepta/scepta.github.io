@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scepta Blog</title>
+    <link>http://www.scepta.io</link>
+    <atom:link href="http://www.scepta.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Blog posts about Scepta - the open source policy authoring and execution platform</description>
+    <language>en-us</language>
+    <pubDate>Tue, 3 Mar 2015 11:15:04 +0000</pubDate>
+    <lastBuildDate>Tue, 3 Mar 2015 11:15:04 +0000</lastBuildDate>
+
+
+  </channel> 
+</rss>
